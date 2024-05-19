@@ -1,0 +1,5 @@
+/usr/share/plymouth/themes/ibonia-logo
+/usr/share/plymouth/themes/default.plymouth
+/etc/alternatives/default.plymouth
+/usr/share/cinnamon-background-properties
+/usr/share/cinnamon/themes
