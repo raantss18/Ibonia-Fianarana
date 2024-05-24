@@ -1,0 +1,2 @@
+/lib/os-release
+/etc/linuxmint
