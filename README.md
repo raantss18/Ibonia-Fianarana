@@ -1,6 +1,6 @@
 # Ibonia-design
 
- **Ibonia** is an open source project for ==education in Madagascar==.
+ **Ibonia** is an open source project for ***education in Madagascar***.
 
  Based on Linux Mint, we remasterize the OS as well as all tools/apps for education are integrated on Ibonia.
 
